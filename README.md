@@ -15,5 +15,10 @@ Python · pandas · Jupyter · statistical testing · Django
 ## Files
 - `BI_Personal_Finance_Behaviour_Statistical_Validation_Django.ipynb` — full analysis notebook
 
-## Author
-Ngan Nguyen — Business Intelligence & Data Analytics student, Algonquin College
+## Authors
+Team project by:
+- **Ngan Nguyen**
+- **Duc Anh Ngo**
+- **DongHwan Won**
+
+Business Intelligence & Data Analytics students, Algonquin College
